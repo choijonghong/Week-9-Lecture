@@ -46,8 +46,9 @@ Week-8-Lecture
 
 ### 참고 파일
 
-* 논문1. Adam(A Method for Stochastic Optimization)
-* Adam 논문 해설
+* 논문1. Adam(A Method for Stochastic Optimization).pdf
+* Adam 논문 해설.pdf
+* 새넌의 엔트로피와 AI 최적화.pdf
 
 
 
