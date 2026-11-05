@@ -44,11 +44,7 @@ Week-8-Lecture
 * 낮은 곳은 바로 모델의 오차(LOSS)가 작은 지점입니다.
 * 즉, 경사하강법은 모델의 예측이 정답에 가까워지도록, 오차가 줄어드는 방향으로 가중치를 조금씩 조정하는 학습 방식이다.
 
-### 참고 파일
 
-* 논문1. Adam(A Method for Stochastic Optimization).pdf
-* Adam 논문 해설.pdf
-* 새넌의 엔트로피와 AI 최적화.pdf
 
 
 
